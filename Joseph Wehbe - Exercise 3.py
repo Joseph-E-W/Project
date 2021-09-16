@@ -1,4 +1,4 @@
-#Joseph Wehbe - Exercise 3
+ Exercise 
 
 def Hundreds(n):
     t=n//100
